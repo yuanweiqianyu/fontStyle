@@ -15,6 +15,10 @@
 		484A7F5720CF8EC800E9FA71 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 484A7F5620CF8EC800E9FA71 /* main.m */; };
 		484A7F6120CF8EC800E9FA71 /* textStyleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 484A7F6020CF8EC800E9FA71 /* textStyleTests.m */; };
 		484A7F6C20CF8EC800E9FA71 /* textStyleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 484A7F6B20CF8EC800E9FA71 /* textStyleUITests.m */; };
+		484A7F7A20CF92E100E9FA71 /* 夫君娘子.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 484A7F7920CF92E000E9FA71 /* 夫君娘子.ttf */; };
+		484A7F7C20CF953800E9FA71 /* 微笑的恋爱.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 484A7F7B20CF953700E9FA71 /* 微笑的恋爱.ttf */; };
+		48891B5020CFAF9000186A2C /* 经典空叠黑.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 48891B4F20CFAF9000186A2C /* 经典空叠黑.TTF */; };
+		48891B5220CFB2C900186A2C /* 经典繁方篆.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 48891B5120CFB2C900186A2C /* 经典繁方篆.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +55,10 @@
 		484A7F6720CF8EC800E9FA71 /* textStyleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = textStyleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		484A7F6B20CF8EC800E9FA71 /* textStyleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = textStyleUITests.m; sourceTree = "<group>"; };
 		484A7F6D20CF8EC800E9FA71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		484A7F7920CF92E000E9FA71 /* 夫君娘子.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "夫君娘子.ttf"; sourceTree = "<group>"; };
+		484A7F7B20CF953700E9FA71 /* 微笑的恋爱.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "微笑的恋爱.ttf"; sourceTree = "<group>"; };
+		48891B4F20CFAF9000186A2C /* 经典空叠黑.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = "经典空叠黑.TTF"; sourceTree = "<group>"; };
+		48891B5120CFB2C900186A2C /* 经典繁方篆.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = "经典繁方篆.TTF"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +89,10 @@
 		484A7F3B20CF8EC600E9FA71 = {
 			isa = PBXGroup;
 			children = (
+				48891B5120CFB2C900186A2C /* 经典繁方篆.TTF */,
+				48891B4F20CFAF9000186A2C /* 经典空叠黑.TTF */,
+				484A7F7B20CF953700E9FA71 /* 微笑的恋爱.ttf */,
+				484A7F7920CF92E000E9FA71 /* 夫君娘子.ttf */,
 				484A7F4620CF8EC600E9FA71 /* textStyle */,
 				484A7F5F20CF8EC800E9FA71 /* textStyleTests */,
 				484A7F6A20CF8EC800E9FA71 /* textStyleUITests */,
@@ -237,6 +249,10 @@
 			files = (
 				484A7F5420CF8EC800E9FA71 /* LaunchScreen.storyboard in Resources */,
 				484A7F5120CF8EC800E9FA71 /* Assets.xcassets in Resources */,
+				48891B5220CFB2C900186A2C /* 经典繁方篆.TTF in Resources */,
+				484A7F7A20CF92E100E9FA71 /* 夫君娘子.ttf in Resources */,
+				48891B5020CFAF9000186A2C /* 经典空叠黑.TTF in Resources */,
+				484A7F7C20CF953800E9FA71 /* 微笑的恋爱.ttf in Resources */,
 				484A7F4F20CF8EC600E9FA71 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
